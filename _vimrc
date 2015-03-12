@@ -1,6 +1,5 @@
 "This is my personal vimrcfile.
 "
-"
 "Set mapleader
 let mapleader = ";"
 
